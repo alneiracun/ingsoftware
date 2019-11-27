@@ -2,6 +2,7 @@
 <head><title>mi pagina mvc</title></head>
 <body>
 <?php
+require("vista/cronometro");
 require("modelo/posiciones.php");
 ?>
 <h1>aca esta el texto de mi página</h1>
